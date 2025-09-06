@@ -9,8 +9,11 @@
 This document outlines the planned migration of the POSC community from our current communication platforms to a more structured, developer-friendly ecosystem centered around GitHub. This transition will occur gradually over a 12-18 month period to ensure minimal disruption to our community.
 
 **Current State**: Primary communication on QQ group
+
 **Target State**: **GitHub** as core collaboration hub + **Telegram** for real-time discussion
+
 **Migration Principle**: Value-driven, gradual transition, community-focused
+
 **Timeline**: Q2 2025 - Q4 2026
 
 ## 🤔 Why We Are Migrating
