@@ -96,7 +96,7 @@ The migration will occur in phases to ensure community members have adequate tim
 
 ## 🆘 Getting Help
 
-- For **technical help** with GitHub: Open an issue in the [help repository](https://github.com/your-org/help)
+- For **technical help** with GitHub: Open an issue in the [help repository](https://github.com/penosext/help)
 - For **general questions**: Join our [Telegram discussion group](https://t.me/your-invite-link)
 - For **urgent matters**: DM administrators on QQ (during transition period)
 
@@ -105,8 +105,4 @@ The migration will occur in phases to ensure community members have adequate tim
 Community evolution requires adaptation from all members. We believe this platform migration will bring renewed vitality and brighter future for POSC. We appreciate your patience and participation during this transition.
 
 ---
-*This document will be updated regularly. Last updated: April 2024*
-
-<p align="center">
-  <a href="./README_CN.md">中文版</a> | <strong>English</strong>
-</p>
+*This document will be updated regularly. Last updated: April 2025*
