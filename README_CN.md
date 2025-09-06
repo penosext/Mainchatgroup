@@ -1,7 +1,7 @@
 # 🚀 POSC 社区平台迁移计划
 
 <p align="center">
-  <a href="./README.md">English Version</a> | <strong>中文版</strong>
+  <a href="./README.md">English</a> | <strong>中文版</strong>
 </p>
 
 ## 📋 概述
