@@ -1,7 +1,7 @@
 # 🚀 POSC 社区平台迁移计划
 
 <p align="center">
-  <a href="./README_CN.md">中文版</a> | <strong>English</strong>
+  <strong>English</strong> | <a href="./README_CN.md">中文</a>
 </p>
 
 ## 📋 Executive Summary
@@ -14,7 +14,7 @@ This document outlines the planned migration of the POSC community from our curr
 
 **Migration Principle**: Value-driven, gradual transition, community-focused
 
-**Timeline**: Q3 2025 - Q4 2027
+**Timeline**: Q3 2025 - Q1 2027
 
 ## 🤔 Why We Are Migrating
 
