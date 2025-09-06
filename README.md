@@ -14,7 +14,7 @@ This document outlines the planned migration of the POSC community from our curr
 
 **Migration Principle**: Value-driven, gradual transition, community-focused
 
-**Timeline**: Q2 2025 - Q4 2026
+**Timeline**: Q3 2025 - Q5 2027
 
 ## 🤔 Why We Are Migrating
 
