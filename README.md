@@ -32,7 +32,7 @@ Our current platform has served us well, but as our community grows and becomes 
 
 The migration will occur in phases to ensure community members have adequate time to adapt. **The QQ group will remain active throughout phases 1 and 2 as a backup notification channel.**
 
-### Phase 1: Foundation & Parallel Run (Q2-Q4 2024)
+### Phase 1: Foundation & Parallel Run (Q2-Q4 2025)
 - **Objective**: Establish new platforms, create initial workflows, attract early adopters
 - **Key Actions**:
   - [x] Create GitHub Organization and core repositories
@@ -96,7 +96,7 @@ The migration will occur in phases to ensure community members have adequate tim
 
 ## 🆘 Getting Help
 
-- For **technical help** with GitHub: Open an issue in the [help repository](https://github.com/penosext/help)
+- For **technical help** with GitHub: Open an issue in the [help repository](https://github.com/orgs/penosext/discussions)
 - For **general questions**: Join our [Telegram discussion group](https://t.me/your-invite-link)
 - For **urgent matters**: DM administrators on QQ (during transition period)
 
