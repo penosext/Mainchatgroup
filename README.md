@@ -1,4 +1,4 @@
-# 🚀 POSC 社区平台迁移计划
+# 🚀 POSC Community Platform Migration Plan
 
 <p align="center">
   <strong>English</strong> | <a href="./README_CN.md">中文</a>
